@@ -8,4 +8,9 @@ Hello! This is a one day project I did to challenge myself. It is a desktop pet 
 - drag Piplup around your screen if you want
 - use the slider to resize
 - press "Respawn" if Piplup gets stuck or wanders off
+
 - press "Exit" to close
+
+
+
+to download, clone this repository or download it as a zip. all files are needed EXCEPT for pet.py, I put that in here to show you how this project was done in case you want to try for yourself!
